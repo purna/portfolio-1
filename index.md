@@ -17,4 +17,4 @@ This interest helped me grow slowly at lots of points. One of these points is th
 While focusing on higher education. I will try to start a new project with the people I know who has reached good goals in this industry. I will have a conversation with them and will try to be a part of a project so I can gain as much expeience as I can as these experiences will be a huge impact for my future plans. Once I finish higher education, I'm planning to do a masters degree and then the doctor's degree, as I want to be an expert in this industry.
 
 # Experience
-I don't have any professional experiences, I had a work experience as a web developer in custard design at Eastbourne in 2019. Except this I did not have any professional experiences. All my experience about video editing, programming, photoshop were by my own watcihng tutorials and etc. 
+I had a work experience as a web developer in custard design at Eastbourne in 2019. All my experience about video editing, programming, photoshop were by my own watcihng tutorials and etc. 
