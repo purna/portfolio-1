@@ -27,9 +27,9 @@ Waiter, Sunshine Coffee Shop, Hove Brighton - 2018-2019 :
 I was responsible of the tables if they were clean or not. Furthermore I was making sure if the area was clear or not, if the customers need something. I was also responsible if there were enough stock for later. However, I was making coffee and tea for the customers. During this job, I have worked closely with team members so this helped me with me communication skills against customers and team members, daling with money such as taking cash/card payments and etc.
 
 # Skills
-Communication: Good communication skills with customers, team mates and customers gained through work experiences.
-Organisational: Very good organisational skills gained in all my career as Programmer, and the experience that gained through work experiences.
-Programming : A junior programmer with a good knowledge of most statements such as if, loops, arrays. Good knowledge of programming languages such as C# and Python.
+- Communication: Good communication skills with customers, team mates and customers gained through work experiences.
+- Organisational: Very good organisational skills gained in all my career as Programmer, and the experience that gained through work experiences.
+- Programming : A junior programmer with a good knowledge of most statements such as if, loops, arrays. Good knowledge of programming languages such as C# and Python.
 
 # References : 
 References are available on the request.
