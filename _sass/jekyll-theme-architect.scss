@@ -2,6 +2,15 @@
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
 
+
+
+/* CUSTOM STYLES */
+nav a {
+   color: #000000;
+}
+
+
+
 /* LAYOUT STYLES */
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
@@ -447,10 +456,6 @@ footer a:hover {
     content: none;
   }
 }
-
-nav a {
-   color: #000000;
-  }
 
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
