@@ -8,8 +8,13 @@
 nav a {
    color: #000;
    border: #000 1px solid;
-   padding: 1em;
+   marging: 0.5em 0;
+   padding: 0.5em 1em;
    background-color: #FFF;
+}
+
+nav ul {
+  list-style-type: none;
 }
 
 
