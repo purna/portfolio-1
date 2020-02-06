@@ -6,3 +6,8 @@
 <b>Instagram :</b> 
 [Instagram](https://www.instagram.com/viiofficialx/)
 
+<b>Pinterest</b>
+[Pinterest](https://www.pinterest.co.uk/sp0r7en//)
+  
+<b>Twitter</b>
+[Twitter](https://twitter.com/viiofficial1)
