@@ -7,7 +7,7 @@
 
 <img src="https://i.imgur.com/Sj7tM9I.jpg" alt="" class="pure-img">
 
-<img src="https://i.imgur.com/LKb0g7u.jpg"" alt="" class="pure-img">
+<img src="https://i.imgur.com/LKb0g7u.jpg" alt="" class="pure-img">
                                                                    
 <img src="https://i.imgur.com/gMV73B0.jpg" alt="" class="pure-img">
                                    
