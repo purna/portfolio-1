@@ -18,3 +18,5 @@ While focusing on higher education. I will try to start a new project with the p
 
 # Experience
 I had a work experience as a web developer in custard design at Eastbourne in 2019. All my experience about video editing, programming, photoshop were by my own watcihng tutorials and etc. 
+
+<a href="game.html"> Play the game. </a>
